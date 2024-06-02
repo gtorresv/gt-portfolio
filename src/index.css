@@ -29,3 +29,15 @@
   margin-right: 35px;
   padding: 10px;
 }
+.contact-section {
+  background-color: cadetblue;
+}
+.contact-section h2 {
+  background-color: cadetblue;
+}
+.form {
+  margin: 10px;
+  padding: 5px;
+  padding-right: 22px;
+  background-color: cadetblue;
+}
